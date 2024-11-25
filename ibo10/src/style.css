@@ -1,0 +1,35 @@
+.container {
+  width: 80%;
+  justify-content: center;
+  margin: auto;
+  margin-top: 50px;
+}
+input {
+  border: 2px solid gray;
+  margin-left: 10px;
+}
+button {
+  width: 250px;
+}
+p {
+  margin-left: 10px;
+}
+textarea {
+  border: 2px solid gray;
+  margin-left: 10px;
+}
+
+.container1 {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+}
+.box1 {
+  width: 50%;
+}
+.box_img {
+  width: 100%;
+}
+.box2 {
+  width: 50%;
+}

@@ -1,0 +1,25 @@
+.p {
+  font-size: 30px;
+}
+.container1 {
+  width: 85%;
+  gap: 40px;
+  margin: auto;
+  margin-top: 40px;
+}
+.box1 {
+  width: 60%;
+}
+
+.meta_sharing {
+  justify-content: space-between;
+}
+.check {
+  gap: 10px;
+}
+.box2 {
+  width: 30%;
+}
+.a {
+  gap: 20px;
+}
